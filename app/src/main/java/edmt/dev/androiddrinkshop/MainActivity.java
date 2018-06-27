@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Changed You just check!!!
     // Hi from Ubuntu
+    // Try on Ubuntu to get this
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
