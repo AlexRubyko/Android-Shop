@@ -10,16 +10,11 @@
 
     <Button
         android:id="@+id/btn_continue"
-        android:text="Continue"
+        android:text="@string/btn_name"
         android:background="@color/colorPrimaryDark"
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <Button
-        android:id="@+id/bt"
-        android:text="Other"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
 
 </RelativeLayout>
